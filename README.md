@@ -6,4 +6,4 @@
 
 ## Intoduction
 
-Responsive, beautiful admin panel with lots of widgets and features.
+Responsive, beautiful admin panel with many widgets and functions such as: calendar, kanban, theming, tables, colorpicker, charts and more.
